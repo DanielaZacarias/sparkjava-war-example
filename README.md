@@ -2,12 +2,13 @@
 Build war with maven and sparkjava framework
 
 Exercise:
+
 1. Create an instance
 2. Login into the console
-3.- Clone the https://github.com/DanielaZacarias/sparkjava-war-example.git 
-4.-Install tomcat, java, maven
-5.-Compile the code
-6.-Upload the artifact to tomcat 
+3. Clone the https://github.com/DanielaZacarias/sparkjava-war-example.git 
+4. Install tomcat, java, maven
+5. Compile the code
+6. Upload the artifact to tomcat 
 
 Steps:
 
